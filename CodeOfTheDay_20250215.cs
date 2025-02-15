@@ -1,1 +1,35 @@
-dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKCmNsYXNzIFByb2dyYW0KewogICAgc3RhdGljIHZvaWQgTWFpbigpCiAgICB7CiAgICAgICAgLy8gSW5pdGlhbGl6ZSBsaXN0IG9mIGludGVnZXJzCiAgICAgICAgTGlzdDxpbnQ+IG51bWJlcnMgPSBuZXcgTGlzdDxpbnQ+KCkgeyAxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCB9OwoKICAgICAgICAvLyBDYWxsIHRoZSBGaWJvbmFjY2kgbWV0aG9kCiAgICAgICAgTGlzdDxpbnQ+IGZpYm9uYWNjaU51bWJlcnMgPSBHZXRGaWJvbmFjY2lOdW1iZXJzKG51bWJlcnMpOwoKICAgICAgICAvLyBEaXNwbGF5IHRoZSByZXN1bHQKICAgICAgICBmb3JlYWNoIChpbnQgbnVtIGluIGZpYm9uYWNjaU51bWJlcnMpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShudW0pOwogICAgICAgIH0KICAgIH0KCiAgICAvLyBNZXRob2QgdG8gZ2VuZXJhdGUgRmlib25hY2NpIHNlcXVlbmNlIGJhc2VkIG9uIGEgbGlzdCBvZiBudW1iZXJzCiAgICBzdGF0aWMgTGlzdDxpbnQ+IEdldEZpYm9uYWNjaU51bWJlcnMoTGlzdDxpbnQ+IG51bWJlcnMpCiAgICB7CiAgICAgICAgTGlzdDxpbnQ+IGZpYm9uYWNjaU51bWJlcnMgPSBuZXcgTGlzdDxpbnQ+KCk7CiAgICAgICAgCiAgICAgICAgZm9yZWFjaCAoaW50IG51bSBpbiBudW1iZXJzKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG51bSA9PSAxIHx8IG51bSA9PSAyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmaWJvbmFjY2lOdW1iZXJzLkFkZCgxKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludCBhID0gMTsKICAgICAgICAgICAgICAgIGludCBiID0gMTsKICAgICAgICAgICAgICAgIGludCBmaWJvbmFjY2k7CgogICAgICAgICAgICAgICAgLy8gQ2FsY3VsYXRlIHRoZSBGaWJvbmFjY2kgbnVtYmVyIGZvciBlYWNoIG51bWJlciBpbiB0aGUgbGlzdAogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDM7IGkgPD0gbnVtOyBpKyspCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgZmlib25hY2NpID0gYSArIGI7CiAgICAgICAgICAgICAgICAgICAgYSA9IGI7CiAgICAgICAgICAgICAgICAgICAgYiA9IGZpYm9uYWNjaTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaWJvbmFjY2lOdW1iZXJzLkFkZChiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGZpYm9uYWNjaU51bWJlcnM7CiAgICB9Cn0=
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // We will calculate the Fibonacci series up to the 15th number in the series
+        int length = 15;
+
+        for (int i = 0; i < length; i++)
+        {
+            Console.WriteLine($"{i + 1}: {Fibonacci(i)}");
+        }
+    }
+
+    // Function to calculate Fibonacci series
+    // each number is the sum of the two preceding ones, starting from 0 and 1
+    static int Fibonacci(int n)
+    {
+        int a = 0;
+        int b = 1;
+
+        // In N steps compute Fibonacci sequence iteratively.
+        for (int i = 0; i < n; i++)
+        {
+            int temp = a;
+            a = b;
+            b = temp + b;
+        }
+        return a;
+    }
+}
+
+
+This program calculates the Fibonacci series up to the 15th number. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1. It has many applications in mathematics and science.
