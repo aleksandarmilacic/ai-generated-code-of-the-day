@@ -1,33 +1,44 @@
 using System;
-
-// This is a simple algorithm to generate the Fibonacci sequence up to a certain number.
-// The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1.
-// This sequence appears in many different areas of mathematics and science, and it's also a common programming interview question.
+using System.Collections.Generic;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        // Let's generate the Fibonacci sequence up to a certain number.
-        Console.Write("Enter the length of Fibonacci Series: ");
-        int length = Convert.ToInt32(Console.ReadLine());
+        // Let's create a list of integers for our algorithm to work with
+        List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-        for (int i = 0; i < length; i++)
+        // Call our algorithm function
+        List<int> oddNumbers = GetOddNumbers(numbers);
+
+        // Print the result
+        foreach (var number in oddNumbers)
         {
-            Console.WriteLine(Fibonacci(i));
+            Console.WriteLine(number);
         }
+
+        Console.ReadKey();
     }
 
-    // This method calculates the Fibonacci number at a certain position in the sequence.
-    static int Fibonacci(int n)
+    /// <summary>
+    /// Algorithm that filters out the odd numbers from a list of integers.
+    /// </summary>
+    /// <param name="numbers">List of integers</param>
+    /// <returns>List of odd numbers</returns>
+    static List<int> GetOddNumbers(List<int> numbers)
     {
-        // The Fibonacci number at position 0 or 1 is always the same.
-        if (n == 0)
-            return 0;
-        else if (n == 1)
-            return 1;
-        else
-            // The Fibonacci number at any other position is the sum of the two preceding numbers in the sequence.
-            return Fibonacci(n - 1) + Fibonacci(n - 2);
+        List<int> result = new List<int>();
+
+        foreach(int number in numbers)
+        {
+            // Use modulo operator to check if a number is odd. 
+            // If it is, add it to the result list.
+            if (number % 2 != 0)
+            {
+                result.Add(number);
+            }
+        }
+
+        return result;
     }
 }
