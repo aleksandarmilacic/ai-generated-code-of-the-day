@@ -1,35 +1,38 @@
+csharp
 using System;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        // We will calculate the Fibonacci series up to the 15th number in the series
-        int length = 15;
+        // Read the number from the console
+        Console.Write("Enter a number: ");
+        int number = Convert.ToInt32(Console.ReadLine());
 
-        for (int i = 0; i < length; i++)
-        {
-            Console.WriteLine($"{i + 1}: {Fibonacci(i)}");
-        }
+        // Call the Fibonacci function
+        Console.WriteLine($"The Fibonacci of {number} is {Fibonacci(number)}");
+
+        // Call the Factorial function
+        Console.WriteLine($"The Factorial of {number} is {Factorial(number)}");
     }
 
-    // Function to calculate Fibonacci series
-    // each number is the sum of the two preceding ones, starting from 0 and 1
+    // Recursive function to calculate Fibonacci number
     static int Fibonacci(int n)
     {
-        int a = 0;
-        int b = 1;
+        if (n <= 1)
+            return n;
+        else
+            return Fibonacci(n - 1) + Fibonacci(n - 2);
+    }
 
-        // In N steps compute Fibonacci sequence iteratively.
-        for (int i = 0; i < n; i++)
-        {
-            int temp = a;
-            a = b;
-            b = temp + b;
-        }
-        return a;
+    // Recursive function to calculate Factorial
+    static int Factorial(int n)
+    {
+        if (n == 0)
+            return 1;
+        else
+            return n * Factorial(n - 1);
     }
 }
 
-
-This program calculates the Fibonacci series up to the 15th number. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1. It has many applications in mathematics and science.
+This program will calculate the Fibonacci number and the Factorial of a given number. The Fibonacci number is the sum of the two preceding ones, and Factorial of a number is the product of an integer and all the integers below it.
