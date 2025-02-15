@@ -1,38 +1,33 @@
-csharp
 using System;
+
+// This is a simple algorithm to generate the Fibonacci sequence up to a certain number.
+// The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1.
+// This sequence appears in many different areas of mathematics and science, and it's also a common programming interview question.
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        // Read the number from the console
-        Console.Write("Enter a number: ");
-        int number = Convert.ToInt32(Console.ReadLine());
+        // Let's generate the Fibonacci sequence up to a certain number.
+        Console.Write("Enter the length of Fibonacci Series: ");
+        int length = Convert.ToInt32(Console.ReadLine());
 
-        // Call the Fibonacci function
-        Console.WriteLine($"The Fibonacci of {number} is {Fibonacci(number)}");
-
-        // Call the Factorial function
-        Console.WriteLine($"The Factorial of {number} is {Factorial(number)}");
+        for (int i = 0; i < length; i++)
+        {
+            Console.WriteLine(Fibonacci(i));
+        }
     }
 
-    // Recursive function to calculate Fibonacci number
+    // This method calculates the Fibonacci number at a certain position in the sequence.
     static int Fibonacci(int n)
     {
-        if (n <= 1)
-            return n;
-        else
-            return Fibonacci(n - 1) + Fibonacci(n - 2);
-    }
-
-    // Recursive function to calculate Factorial
-    static int Factorial(int n)
-    {
+        // The Fibonacci number at position 0 or 1 is always the same.
         if (n == 0)
+            return 0;
+        else if (n == 1)
             return 1;
         else
-            return n * Factorial(n - 1);
+            // The Fibonacci number at any other position is the sum of the two preceding numbers in the sequence.
+            return Fibonacci(n - 1) + Fibonacci(n - 2);
     }
 }
-
-This program will calculate the Fibonacci number and the Factorial of a given number. The Fibonacci number is the sum of the two preceding ones, and Factorial of a number is the product of an integer and all the integers below it.
