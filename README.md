@@ -6,3 +6,4 @@
 - [BinaryTreeTraversal_20250217_001907.cs](./BinaryTreeTraversal_20250217_001907.cs) (2025-02-17)
 - [DateDurationCalculator_20250218_001749.cs](./DateDurationCalculator_20250218_001749.cs) (2025-02-18)
 - [EvenOddSorter_20250219_001802.cs](./EvenOddSorter_20250219_001802.cs) (2025-02-19)
+- [AnagramGenerator_20250220_001907.cs](./AnagramGenerator_20250220_001907.cs) (2025-02-20)
