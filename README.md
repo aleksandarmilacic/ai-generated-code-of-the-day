@@ -10,3 +10,4 @@
 - [MagicSquareGenerator_20250221_001801.cs](./MagicSquareGenerator_20250221_001801.cs) (2025-02-21)
 - [TriangleAreaCalculator_20250222_001722.cs](./TriangleAreaCalculator_20250222_001722.cs) (2025-02-22)
 - [NextPermutationGenerator_20250223_001933.cs](./NextPermutationGenerator_20250223_001933.cs) (2025-02-23)
+- [StringPermutationsFinder_20250224_001836.cs](./StringPermutationsFinder_20250224_001836.cs) (2025-02-24)
