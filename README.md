@@ -12,3 +12,4 @@
 - [NextPermutationGenerator_20250223_001933.cs](./NextPermutationGenerator_20250223_001933.cs) (2025-02-23)
 - [StringPermutationsFinder_20250224_001836.cs](./StringPermutationsFinder_20250224_001836.cs) (2025-02-24)
 - [IntervalOverlapRemover_20250225_001814.cs](./IntervalOverlapRemover_20250225_001814.cs) (2025-02-25)
+- [PerfectNumberGenerator_20250226_001817.cs](./PerfectNumberGenerator_20250226_001817.cs) (2025-02-26)
