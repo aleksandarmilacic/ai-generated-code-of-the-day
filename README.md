@@ -15,3 +15,4 @@
 - [PerfectNumberGenerator_20250226_001817.cs](./PerfectNumberGenerator_20250226_001817.cs) (2025-02-26)
 - [NumberPartitioner_20250227_001811.cs](./NumberPartitioner_20250227_001811.cs) (2025-02-27)
 - [CircularQueue_20250228_001814.cs](./CircularQueue_20250228_001814.cs) (2025-02-28)
+- [NumberPuzzleSolver_20250301_002008.cs](./NumberPuzzleSolver_20250301_002008.cs) (2025-03-01)
