@@ -19,3 +19,4 @@
 - [LeapYearChecker_20250303_001922.cs](./LeapYearChecker_20250303_001922.cs) (2025-03-03)
 - [DistinctElementsCounter_20250304_001828.cs](./DistinctElementsCounter_20250304_001828.cs) (2025-03-04)
 - [PascalTriangleGenerator_20250305_001821.cs](./PascalTriangleGenerator_20250305_001821.cs) (2025-03-05)
+- [KnightTourSolver_20250306_001836.cs](./KnightTourSolver_20250306_001836.cs) (2025-03-06)
