@@ -21,3 +21,4 @@
 - [PascalTriangleGenerator_20250305_001821.cs](./PascalTriangleGenerator_20250305_001821.cs) (2025-03-05)
 - [KnightTourSolver_20250306_001836.cs](./KnightTourSolver_20250306_001836.cs) (2025-03-06)
 - [RomanNumeralConverter_20250307_001838.cs](./RomanNumeralConverter_20250307_001838.cs) (2025-03-07)
+- [MatrixDiagonalSum_20250308_001505.cs](./MatrixDiagonalSum_20250308_001505.cs) (2025-03-08)
