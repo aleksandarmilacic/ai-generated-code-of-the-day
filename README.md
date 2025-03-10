@@ -23,3 +23,4 @@
 - [RomanNumeralConverter_20250307_001838.cs](./RomanNumeralConverter_20250307_001838.cs) (2025-03-07)
 - [MatrixDiagonalSum_20250308_001505.cs](./MatrixDiagonalSum_20250308_001505.cs) (2025-03-08)
 - [ConnectionChecker_20250309_111236.cs](./ConnectionChecker_20250309_111236.cs) (2025-03-09)
+- [PythagoreanTripleFinder_20250310_001607.cs](./PythagoreanTripleFinder_20250310_001607.cs) (2025-03-10)
