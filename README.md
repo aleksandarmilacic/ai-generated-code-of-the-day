@@ -25,3 +25,4 @@
 - [ConnectionChecker_20250309_111236.cs](./ConnectionChecker_20250309_111236.cs) (2025-03-09)
 - [PythagoreanTripleFinder_20250310_001607.cs](./PythagoreanTripleFinder_20250310_001607.cs) (2025-03-10)
 - [BinarySearchRotatedArray_20250311_001851.cs](./BinarySearchRotatedArray_20250311_001851.cs) (2025-03-11)
+- [KnightMoveChecker_20250312_001826.cs](./KnightMoveChecker_20250312_001826.cs) (2025-03-12)
