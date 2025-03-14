@@ -27,3 +27,4 @@
 - [BinarySearchRotatedArray_20250311_001851.cs](./BinarySearchRotatedArray_20250311_001851.cs) (2025-03-11)
 - [KnightMoveChecker_20250312_001826.cs](./KnightMoveChecker_20250312_001826.cs) (2025-03-12)
 - [ReversePolishNotationEvaluator_20250313_001857.cs](./ReversePolishNotationEvaluator_20250313_001857.cs) (2025-03-13)
+- [SubsetSumFinder_20250314_001830.cs](./SubsetSumFinder_20250314_001830.cs) (2025-03-14)
