@@ -28,3 +28,4 @@
 - [KnightMoveChecker_20250312_001826.cs](./KnightMoveChecker_20250312_001826.cs) (2025-03-12)
 - [ReversePolishNotationEvaluator_20250313_001857.cs](./ReversePolishNotationEvaluator_20250313_001857.cs) (2025-03-13)
 - [SubsetSumFinder_20250314_001830.cs](./SubsetSumFinder_20250314_001830.cs) (2025-03-14)
+- [LongestCommonSubstring_20250315_001833.cs](./LongestCommonSubstring_20250315_001833.cs) (2025-03-15)
