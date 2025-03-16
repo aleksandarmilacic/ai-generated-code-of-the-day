@@ -29,3 +29,4 @@
 - [ReversePolishNotationEvaluator_20250313_001857.cs](./ReversePolishNotationEvaluator_20250313_001857.cs) (2025-03-13)
 - [SubsetSumFinder_20250314_001830.cs](./SubsetSumFinder_20250314_001830.cs) (2025-03-14)
 - [LongestCommonSubstring_20250315_001833.cs](./LongestCommonSubstring_20250315_001833.cs) (2025-03-15)
+- [LargestNumberByRearrangingDigits_20250316_002027.cs](./LargestNumberByRearrangingDigits_20250316_002027.cs) (2025-03-16)
