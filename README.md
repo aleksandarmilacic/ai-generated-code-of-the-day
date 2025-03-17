@@ -30,3 +30,4 @@
 - [SubsetSumFinder_20250314_001830.cs](./SubsetSumFinder_20250314_001830.cs) (2025-03-14)
 - [LongestCommonSubstring_20250315_001833.cs](./LongestCommonSubstring_20250315_001833.cs) (2025-03-15)
 - [LargestNumberByRearrangingDigits_20250316_002027.cs](./LargestNumberByRearrangingDigits_20250316_002027.cs) (2025-03-16)
+- [RainWaterTrapper_20250317_045020.cs](./RainWaterTrapper_20250317_045020.cs) (2025-03-17)
