@@ -32,3 +32,4 @@
 - [LargestNumberByRearrangingDigits_20250316_002027.cs](./LargestNumberByRearrangingDigits_20250316_002027.cs) (2025-03-16)
 - [RainWaterTrapper_20250317_045020.cs](./RainWaterTrapper_20250317_045020.cs) (2025-03-17)
 - [MissingNumberFinder_20250318_001848.cs](./MissingNumberFinder_20250318_001848.cs) (2025-03-18)
+- [SortingLinkedList_20250320_001837.cs](./SortingLinkedList_20250320_001837.cs) (2025-03-20)
