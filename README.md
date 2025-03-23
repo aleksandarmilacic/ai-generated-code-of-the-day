@@ -35,3 +35,4 @@
 - [SortingLinkedList_20250320_001837.cs](./SortingLinkedList_20250320_001837.cs) (2025-03-20)
 - [MinimumWindowSubstring_20250321_001858.cs](./MinimumWindowSubstring_20250321_001858.cs) (2025-03-21)
 - [MatrixMultiplier_20250322_001819.cs](./MatrixMultiplier_20250322_001819.cs) (2025-03-22)
+- [NumberMorpher_20250323_002032.cs](./NumberMorpher_20250323_002032.cs) (2025-03-23)
