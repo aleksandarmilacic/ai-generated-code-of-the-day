@@ -38,3 +38,4 @@
 - [NumberMorpher_20250323_002032.cs](./NumberMorpher_20250323_002032.cs) (2025-03-23)
 - [GraphColoringSolver_20250323_231447.cs](./GraphColoringSolver_20250323_231447.cs) (2025-03-23)
 - [KnightMinSteps_20250324_001945.cs](./KnightMinSteps_20250324_001945.cs) (2025-03-24)
+- [Error_20250325_001928.cs](./Error_20250325_001928.cs) (2025-03-25)
