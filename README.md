@@ -42,3 +42,4 @@
 - [Error_20250326_001906.cs](./Error_20250326_001906.cs) (2025-03-26)
 - [DutchNationalFlag_20250326_011245.cs](./DutchNationalFlag_20250326_011245.cs) (2025-03-26)
 - [CaesarCipher_20250327_001853.cs](./CaesarCipher_20250327_001853.cs) (2025-03-27)
+- [SetCoverSolver_20250328_001856.cs](./SetCoverSolver_20250328_001856.cs) (2025-03-28)
