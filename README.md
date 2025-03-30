@@ -44,3 +44,4 @@
 - [CaesarCipher_20250327_001853.cs](./CaesarCipher_20250327_001853.cs) (2025-03-27)
 - [SetCoverSolver_20250328_001856.cs](./SetCoverSolver_20250328_001856.cs) (2025-03-28)
 - [XORNumberSwapper_20250329_001844.cs](./XORNumberSwapper_20250329_001844.cs) (2025-03-29)
+- [DivideChocolate_20250330_002054.cs](./DivideChocolate_20250330_002054.cs) (2025-03-30)
