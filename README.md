@@ -48,3 +48,4 @@
 - [BaseConverter_20250331_002039.cs](./BaseConverter_20250331_002039.cs) (2025-03-31)
 - [HappyNumberFinder_20250401_002204.cs](./HappyNumberFinder_20250401_002204.cs) (2025-04-01)
 - [SquareRootCalculator_20250402_001928.cs](./SquareRootCalculator_20250402_001928.cs) (2025-04-02)
+- [SumOfThreeNumbers_20250403_001856.cs](./SumOfThreeNumbers_20250403_001856.cs) (2025-04-03)
