@@ -61,3 +61,4 @@
 - [MirrorString_20250414_002107.cs](./MirrorString_20250414_002107.cs) (2025-04-14)
 - [DecodingEncodedString_20250415_001959.cs](./DecodingEncodedString_20250415_001959.cs) (2025-04-15)
 - [PolygonAreaCalculator_20250416_001944.cs](./PolygonAreaCalculator_20250416_001944.cs) (2025-04-16)
+- [BalancedParenthesesChecker_20250417_001918.cs](./BalancedParenthesesChecker_20250417_001918.cs) (2025-04-17)
