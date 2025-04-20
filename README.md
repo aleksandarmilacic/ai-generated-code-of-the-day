@@ -63,3 +63,4 @@
 - [PolygonAreaCalculator_20250416_001944.cs](./PolygonAreaCalculator_20250416_001944.cs) (2025-04-16)
 - [BalancedParenthesesChecker_20250417_001918.cs](./BalancedParenthesesChecker_20250417_001918.cs) (2025-04-17)
 - [SpiralMatrixGenerator_20250418_001912.cs](./SpiralMatrixGenerator_20250418_001912.cs) (2025-04-18)
+- [ExpensiveSequenceCalculator_20250420_002115.cs](./ExpensiveSequenceCalculator_20250420_002115.cs) (2025-04-20)
