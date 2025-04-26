@@ -68,3 +68,4 @@
 - [SubarraySumEqualsK_20250422_180335.cs](./SubarraySumEqualsK_20250422_180335.cs) (2025-04-22)
 - [ShortestPathInBinaryMatrix_20250423_001951.cs](./ShortestPathInBinaryMatrix_20250423_001951.cs) (2025-04-23)
 - [ElementSwapper_20250424_001937.cs](./ElementSwapper_20250424_001937.cs) (2025-04-24)
+- [LongestPalindromicSubstring_20250426_001905.cs](./LongestPalindromicSubstring_20250426_001905.cs) (2025-04-26)
