@@ -71,3 +71,4 @@
 - [LongestPalindromicSubstring_20250426_001905.cs](./LongestPalindromicSubstring_20250426_001905.cs) (2025-04-26)
 - [LargestContinuousSum_20250427_002121.cs](./LargestContinuousSum_20250427_002121.cs) (2025-04-27)
 - [UniquePairsInArray_20250428_002045.cs](./UniquePairsInArray_20250428_002045.cs) (2025-04-28)
+- [LongestConsecutiveSequence_20250429_001955.cs](./LongestConsecutiveSequence_20250429_001955.cs) (2025-04-29)
