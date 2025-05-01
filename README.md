@@ -73,3 +73,4 @@
 - [UniquePairsInArray_20250428_002045.cs](./UniquePairsInArray_20250428_002045.cs) (2025-04-28)
 - [LongestConsecutiveSequence_20250429_001955.cs](./LongestConsecutiveSequence_20250429_001955.cs) (2025-04-29)
 - [LongestRepeatingCharacterReplacement_20250430_002000.cs](./LongestRepeatingCharacterReplacement_20250430_002000.cs) (2025-04-30)
+- [SnakePatternMatrix_20250501_002226.cs](./SnakePatternMatrix_20250501_002226.cs) (2025-05-01)
