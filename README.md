@@ -74,3 +74,4 @@
 - [LongestConsecutiveSequence_20250429_001955.cs](./LongestConsecutiveSequence_20250429_001955.cs) (2025-04-29)
 - [LongestRepeatingCharacterReplacement_20250430_002000.cs](./LongestRepeatingCharacterReplacement_20250430_002000.cs) (2025-04-30)
 - [SnakePatternMatrix_20250501_002226.cs](./SnakePatternMatrix_20250501_002226.cs) (2025-05-01)
+- [PossiblePathsInMaze_20250502_001959.cs](./PossiblePathsInMaze_20250502_001959.cs) (2025-05-02)
