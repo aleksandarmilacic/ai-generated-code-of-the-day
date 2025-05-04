@@ -76,3 +76,4 @@
 - [SnakePatternMatrix_20250501_002226.cs](./SnakePatternMatrix_20250501_002226.cs) (2025-05-01)
 - [PossiblePathsInMaze_20250502_001959.cs](./PossiblePathsInMaze_20250502_001959.cs) (2025-05-02)
 - [RookMoveChecker_20250503_001922.cs](./RookMoveChecker_20250503_001922.cs) (2025-05-03)
+- [BinaryTreeBalancedChecker_20250504_002227.cs](./BinaryTreeBalancedChecker_20250504_002227.cs) (2025-05-04)
