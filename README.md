@@ -79,3 +79,4 @@
 - [BinaryTreeBalancedChecker_20250504_002227.cs](./BinaryTreeBalancedChecker_20250504_002227.cs) (2025-05-04)
 - [QuadraticEquationSolver_20250505_002127.cs](./QuadraticEquationSolver_20250505_002127.cs) (2025-05-05)
 - [MastermindSolver_20250506_002008.cs](./MastermindSolver_20250506_002008.cs) (2025-05-06)
+- [GreyCodeGenerator_20250507_002020.cs](./GreyCodeGenerator_20250507_002020.cs) (2025-05-07)
