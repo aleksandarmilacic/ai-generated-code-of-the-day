@@ -81,3 +81,4 @@
 - [MastermindSolver_20250506_002008.cs](./MastermindSolver_20250506_002008.cs) (2025-05-06)
 - [GreyCodeGenerator_20250507_002020.cs](./GreyCodeGenerator_20250507_002020.cs) (2025-05-07)
 - [QueenAttackChecker_20250508_002021.cs](./QueenAttackChecker_20250508_002021.cs) (2025-05-08)
+- [FindPairsWithGivenDifference_20250509_002019.cs](./FindPairsWithGivenDifference_20250509_002019.cs) (2025-05-09)
