@@ -82,3 +82,4 @@
 - [GreyCodeGenerator_20250507_002020.cs](./GreyCodeGenerator_20250507_002020.cs) (2025-05-07)
 - [QueenAttackChecker_20250508_002021.cs](./QueenAttackChecker_20250508_002021.cs) (2025-05-08)
 - [FindPairsWithGivenDifference_20250509_002019.cs](./FindPairsWithGivenDifference_20250509_002019.cs) (2025-05-09)
+- [TwoSumSolver_20250510_001916.cs](./TwoSumSolver_20250510_001916.cs) (2025-05-10)
