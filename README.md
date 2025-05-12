@@ -84,3 +84,4 @@
 - [FindPairsWithGivenDifference_20250509_002019.cs](./FindPairsWithGivenDifference_20250509_002019.cs) (2025-05-09)
 - [TwoSumSolver_20250510_001916.cs](./TwoSumSolver_20250510_001916.cs) (2025-05-10)
 - [CountPossibleDecodings_20250511_002144.cs](./CountPossibleDecodings_20250511_002144.cs) (2025-05-11)
+- [MaxProductOfThreeNumbers_20250512_002138.cs](./MaxProductOfThreeNumbers_20250512_002138.cs) (2025-05-12)
