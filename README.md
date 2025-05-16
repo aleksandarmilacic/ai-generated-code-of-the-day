@@ -88,3 +88,4 @@
 - [SumOfNonAdjacentNumbers_20250513_002037.cs](./SumOfNonAdjacentNumbers_20250513_002037.cs) (2025-05-13)
 - [HexadecimalConverter_20250514_002030.cs](./HexadecimalConverter_20250514_002030.cs) (2025-05-14)
 - [UniqueSubstringNoRepeatingChars_20250515_001904.cs](./UniqueSubstringNoRepeatingChars_20250515_001904.cs) (2025-05-15)
+- [ReverseLinkedListInKGroups_20250516_002037.cs](./ReverseLinkedListInKGroups_20250516_002037.cs) (2025-05-16)
