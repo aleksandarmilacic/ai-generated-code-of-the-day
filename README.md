@@ -89,3 +89,4 @@
 - [HexadecimalConverter_20250514_002030.cs](./HexadecimalConverter_20250514_002030.cs) (2025-05-14)
 - [UniqueSubstringNoRepeatingChars_20250515_001904.cs](./UniqueSubstringNoRepeatingChars_20250515_001904.cs) (2025-05-15)
 - [ReverseLinkedListInKGroups_20250516_002037.cs](./ReverseLinkedListInKGroups_20250516_002037.cs) (2025-05-16)
+- [NumberEncoder_20250518_064430.cs](./NumberEncoder_20250518_064430.cs) (2025-05-18)
