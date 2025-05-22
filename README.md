@@ -93,3 +93,4 @@
 - [PairsOfSongsWithDuration_20250519_002139.cs](./PairsOfSongsWithDuration_20250519_002139.cs) (2025-05-19)
 - [FirstMissingPositive_20250520_002108.cs](./FirstMissingPositive_20250520_002108.cs) (2025-05-20)
 - [SubsequenceChecker_20250521_002103.cs](./SubsequenceChecker_20250521_002103.cs) (2025-05-21)
+- [TribonacciSequenceGenerator_20250522_002024.cs](./TribonacciSequenceGenerator_20250522_002024.cs) (2025-05-22)
