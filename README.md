@@ -95,3 +95,4 @@
 - [SubsequenceChecker_20250521_002103.cs](./SubsequenceChecker_20250521_002103.cs) (2025-05-21)
 - [TribonacciSequenceGenerator_20250522_002024.cs](./TribonacciSequenceGenerator_20250522_002024.cs) (2025-05-22)
 - [FourNumberSum_20250523_002033.cs](./FourNumberSum_20250523_002033.cs) (2025-05-23)
+- [LongestIncreasingPathInMatrix_20250524_001946.cs](./LongestIncreasingPathInMatrix_20250524_001946.cs) (2025-05-24)
