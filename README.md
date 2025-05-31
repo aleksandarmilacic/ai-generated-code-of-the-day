@@ -101,3 +101,4 @@
 - [PairProductSolver_20250528_002045.cs](./PairProductSolver_20250528_002045.cs) (2025-05-28)
 - [SubarrayProductLessThanK_20250529_002035.cs](./SubarrayProductLessThanK_20250529_002035.cs) (2025-05-29)
 - [LongestUniformSubstring_20250530_002039.cs](./LongestUniformSubstring_20250530_002039.cs) (2025-05-30)
+- [KadanesAlgorithm_20250531_002002.cs](./KadanesAlgorithm_20250531_002002.cs) (2025-05-31)
