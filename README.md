@@ -103,3 +103,4 @@
 - [LongestUniformSubstring_20250530_002039.cs](./LongestUniformSubstring_20250530_002039.cs) (2025-05-30)
 - [KadanesAlgorithm_20250531_002002.cs](./KadanesAlgorithm_20250531_002002.cs) (2025-05-31)
 - [CombinationSum_20250601_002546.cs](./CombinationSum_20250601_002546.cs) (2025-06-01)
+- [MatrixRotator_20250602_002152.cs](./MatrixRotator_20250602_002152.cs) (2025-06-02)
