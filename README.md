@@ -105,3 +105,4 @@
 - [CombinationSum_20250601_002546.cs](./CombinationSum_20250601_002546.cs) (2025-06-01)
 - [MatrixRotator_20250602_002152.cs](./MatrixRotator_20250602_002152.cs) (2025-06-02)
 - [MatrixZeroSetter_20250603_002110.cs](./MatrixZeroSetter_20250603_002110.cs) (2025-06-03)
+- [PermutationsOfNumberPuzzle_20250604_002102.cs](./PermutationsOfNumberPuzzle_20250604_002102.cs) (2025-06-04)
