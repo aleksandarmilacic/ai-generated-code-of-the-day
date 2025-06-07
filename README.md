@@ -108,3 +108,4 @@
 - [PermutationsOfNumberPuzzle_20250604_002102.cs](./PermutationsOfNumberPuzzle_20250604_002102.cs) (2025-06-04)
 - [StrobogrammaticNumberChecker_20250605_002050.cs](./StrobogrammaticNumberChecker_20250605_002050.cs) (2025-06-05)
 - [Rot13StringTransformer_20250606_002038.cs](./Rot13StringTransformer_20250606_002038.cs) (2025-06-06)
+- [SequenceReverser_20250607_002029.cs](./SequenceReverser_20250607_002029.cs) (2025-06-07)
