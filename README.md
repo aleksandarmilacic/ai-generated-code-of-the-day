@@ -112,3 +112,4 @@
 - [BinaryTreeLevelOrderTraversal_20250608_002317.cs](./BinaryTreeLevelOrderTraversal_20250608_002317.cs) (2025-06-08)
 - [MultiLevelDungeonGame_20250609_002221.cs](./MultiLevelDungeonGame_20250609_002221.cs) (2025-06-09)
 - [TilePlacementChecker_20250610_002048.cs](./TilePlacementChecker_20250610_002048.cs) (2025-06-10)
+- [SequenceFinder_20250611_002053.cs](./SequenceFinder_20250611_002053.cs) (2025-06-11)
