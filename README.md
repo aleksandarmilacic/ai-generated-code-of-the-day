@@ -114,3 +114,4 @@
 - [TilePlacementChecker_20250610_002048.cs](./TilePlacementChecker_20250610_002048.cs) (2025-06-10)
 - [SequenceFinder_20250611_002053.cs](./SequenceFinder_20250611_002053.cs) (2025-06-11)
 - [MaximumSubarrayProductFinder_20250612_002043.cs](./MaximumSubarrayProductFinder_20250612_002043.cs) (2025-06-12)
+- [KnightAndTargetGame_20250613_002104.cs](./KnightAndTargetGame_20250613_002104.cs) (2025-06-13)
