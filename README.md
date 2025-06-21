@@ -121,3 +121,4 @@
 - [KthLargestElementFinder_20250617_002051.cs](./KthLargestElementFinder_20250617_002051.cs) (2025-06-17)
 - [OnlineVotingSystemSimulation_20250618_002054.cs](./OnlineVotingSystemSimulation_20250618_002054.cs) (2025-06-18)
 - [TreeMirrorMaker_20250619_002112.cs](./TreeMirrorMaker_20250619_002112.cs) (2025-06-19)
+- [OrderedFractionGenerator_20250621_002054.cs](./OrderedFractionGenerator_20250621_002054.cs) (2025-06-21)
